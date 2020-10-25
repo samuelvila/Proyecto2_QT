@@ -13,6 +13,7 @@ class Main(QtWidgets.QMainWindow):
         '''
         #var.ui.btnAceptar.clicked.connect(events.Eventos.Saludo)
         var.ui.btnSalir.clicked.connect(events.Eventos.Salir)
+        var.ui.btnAceptar.clicked.connect()
         '''
         Controles del menubar
         '''
